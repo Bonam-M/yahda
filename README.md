@@ -33,7 +33,7 @@ Here is a description of the content of this repository.
 This repository contains Notebooks with step by process to load, transform and visualize data in CSV and PNG format.
  
 #### Datasets
-This repository contains two main datasets in CSV and PNG.
+This repository contains two main datasets in CSV and PNG formats.
 
 ## Where to go from here?
 Learn more about the brain in your way using data or any other resources.
